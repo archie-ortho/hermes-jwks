@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS384",
+      "kid": "hermes-1",
+      "n": "vuia1RAOpWa-H-XK-j9uoEsOtnxLD270hmgqVOHcaSufgmI8SSGxiDoqxo564s5qrzgFxQ2srykO7vhvDJckwFAGWczV4U829oZ6RtlhUIyKgp7wthcP7dgIwUK8Usotnh5jANHWtHU3pUWYNakPR6eKRxz_cP8aHWXoNGDu5KcmBNmoUbWAEFEN54LWd_TjzxvugqUUigghv2Hdpcm7uCQy9AWZJBKL8mCpGh2amErCpqZp3UU9Yxu6rasTsNYVwvhJDHr3ye42tQ84kGXbm9Dnh1vBGKZxTaioQ6K7dQdJtPAdlEy0ZNhV_JJtdryOM5ebN_cvGpuZhlj9CkbM5Q",
+      "e": "AQAB"
+    }
+  ]
+}
